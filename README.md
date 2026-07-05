@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Ma-Namba/Ma-Namba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+COACHTECH でフルスタックWeb開発を学習中です。
+前職である機械設計の知識を生かしたサービスを作成することに興味があります。
 
-Here are some ideas to get you started:
+## 前職
+CAD(2D/3D)を使用した機械設計に従事
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 使える技術
+- **バックエンド**: PHP / Laravel
+- **フロントエンド**: HTML5 / CSS / Blade
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 🌱 これから挑戦したいこと
+セキュリティリスクアセスメントを意識した製品を作れるエンジニアになりたいです。
+組み込み系プログラム、アプリ開発に興味があります。
